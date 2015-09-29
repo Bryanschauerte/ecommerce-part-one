@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-part-one",
+  "version": "1.0.0",
+  "description": "eCommerce Project - Part I =================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryanschauerte/ecommerce-part-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryanschauerte/ecommerce-part-one/issues"
+  },
+  "homepage": "https://github.com/Bryanschauerte/ecommerce-part-one#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongojs": "^1.3.0"
+  }
+}
